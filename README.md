@@ -3,4 +3,4 @@
     🎮 I'm currently working on a game
     🖥️ I have been programming for 6+ years!
     
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?MCK0220=anuraghazra&theme=dark&show_icons=true)
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?MCK0220=willianrod)](https://github.com/anuraghazra/github-readme-stats)
